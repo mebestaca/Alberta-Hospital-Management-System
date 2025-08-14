@@ -705,7 +705,7 @@ class Management:
             Keys.KEY_OPTIONS : {
                 1: f"{' ':3} Doctors",
                 2: f"{' ':3} Patients",
-                3: f"Exit Program"
+                3: f"{' ':3}Exit Program"
             },
         },
         Keys.KEY_DOCTORS_MENU : {
